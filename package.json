@@ -22,12 +22,12 @@
 		"@babel/preset-react": "^7.0.0",
 		"@babel/runtime": "^7.10.5",
 		"babel-eslint": "^10.0.1",
-		"babel-loader": "^8.0.5",
+		"babel-loader": "^8.2.2",
 		"babel-plugin-transform-class-properties": "^6.24.1",
 		"bc-console": "0.0.2",
 		"css-loader": "^2.1.1",
 		"eslint": "^4.19.1",
-		"eslint-loader": "^2.0.0",
+		"eslint-loader": "^2.2.1",
 		"eslint-plugin-react": "^7.7.0",
 		"file-loader": "^1.1.5",
 		"gh-pages": "^1.2.0",
@@ -65,8 +65,9 @@
 		"popper.js": "^1.12.9",
 		"prop-types": "^15.6.1",
 		"query-string": "^5.1.1",
-		"react": "^16.8.6",
-		"react-dom": "^16.8.6",
-		"react-polyfills": "0.0.1"
+		"react": "^16.14.0",
+		"react-dom": "^16.14.0",
+		"react-polyfills": "0.0.1",
+		"reactstrap": "^8.8.1"
 	}
 }
